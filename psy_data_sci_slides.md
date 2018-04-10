@@ -12,7 +12,7 @@ https://github.com/matthew-brett/psy-data-sci
 # A tipping point
 
 * https://stackoverflow.blog/2017/09/06/incredible-growth-python
-*   
+* https://stackoverflow.blog/2017/10/10/impressive-growth-r
 
 # Data science example
 
@@ -75,6 +75,17 @@ https://github.com/matthew-brett/psy-data-sci/brexit.ipynb
 > --- Leo Breiman [-@breiman2001statistical] "Statistical modeling: the two
 > cultures"
 
+# A change in culture
+
+> Computing results are now being presented in a very loose, “breezy” way—in
+> journal articles, in conferences, and in books. All too often one simply
+> takes computations at face value. This is spectacularly against the evidence
+> of my own experience. I would much rather that at talks and in referee
+> reports, the possibility of such error were seriously examined.
+>
+> -- <cite>David L. Donoho (2010). An invitation to reproducible computational
+> research. Biostatistics Volume 11, Issue 3 Pp. 385-388</cite>
+
 # Technical gains
 
 * flexibility in data that can be analyzed (Twitter feeds, web pages,
@@ -100,7 +111,13 @@ little interest in mathematics".
 
 # A short course on statistics with almost no mathematics
 
+* https://github.com/matthew-brett/psy-data-sci/permutation_test.ipynb
+* https://github.com/matthew-brett/psy-data-sci/permutation_correlation.ipynb
+* https://github.com/matthew-brett/psy-data-sci/statsmodels_anova.ipynb
+* https://github.com/matthew-brett/psy-data-sci/f_and_resampling.ipynb
 
 # Is this the end?
 
 Yes, it's the end of the talk.
+
+# References
