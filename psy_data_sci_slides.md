@@ -39,6 +39,10 @@ https://nhorton.people.amherst.edu/mererenovation
   science](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
 * [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r).
 
+# Defining data science
+
+https://github.com/hadley/stats337/blob/master/README.md
+
 # Data science by example
 
 https://github.com/matthew-brett/psy-data-sci/brexit.ipynb
