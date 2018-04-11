@@ -142,6 +142,12 @@ little interest in mathematics".
 
 http://www.jstor.org/stable/pdf/27958125.pdf
 
+# Opening the black box
+
+"What I cannot create, I do not understand"
+
+Found on Richard Feynman's blackboard after his death.
+
 # A short course on statistics with almost no mathematics
 
 * [permutation
