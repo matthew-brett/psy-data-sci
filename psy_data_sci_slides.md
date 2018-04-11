@@ -9,12 +9,37 @@ bibliography: data_science.bib
 
 https://github.com/matthew-brett/psy-data-sci
 
+# Plan
+
+* old and new;
+* new is heading our way;
+* data science by example;
+* why it matters;
+* how it can help us teach statistics.
+
+# Old and new
+
+The perils of the old.
+
 # A tipping point
 
-* https://stackoverflow.blog/2017/09/06/incredible-growth-python
-* https://stackoverflow.blog/2017/10/10/impressive-growth-r
+"Mere renovation is too late: we need to rethink our undergraduate curriculum
+from the ground up" -- George W Cobb (2015).
 
-# Data science example
+https://nhorton.people.amherst.edu/mererenovation
+
+# A tipping point
+
+* [http://data8.org](http://data8.org/)
+* "The course is designed for entry-level students from any major. It is
+  designed specifically for students who have not previously taken statistics
+  or computer science courses."
+  [(link)](https://data.berkeley.edu/education/courses/data-8-foundations-data-science).
+* [Python and data
+  science](https://stackoverflow.blog/2017/09/06/incredible-growth-python)
+* [R](https://stackoverflow.blog/2017/10/10/impressive-growth-r).
+
+# Data science by example
 
 https://github.com/matthew-brett/psy-data-sci/brexit.ipynb
 
@@ -22,6 +47,8 @@ https://github.com/matthew-brett/psy-data-sci/brexit.ipynb
 
 * code at the heart of analysis;
 * general programming language as foundation;
+* real data, real questions;
+* flexible;
 * reproducible;
 * documented.
 
@@ -109,12 +136,25 @@ Trials of teaching method in high school students [-@simon1969new] and
 undergraduates [-@simon1976probability] including those with "low skills and
 little interest in mathematics".
 
+http://www.jstor.org/stable/pdf/27958125.pdf
+
 # A short course on statistics with almost no mathematics
 
-* https://github.com/matthew-brett/psy-data-sci/permutation_test.ipynb
-* https://github.com/matthew-brett/psy-data-sci/permutation_correlation.ipynb
-* https://github.com/matthew-brett/psy-data-sci/statsmodels_anova.ipynb
-* https://github.com/matthew-brett/psy-data-sci/f_and_resampling.ipynb
+* [permutation
+  test](https://github.com/matthew-brett/psy-data-sci/permutation_test.ipynb);
+* [correlation by
+  permutation](https://github.com/matthew-brett/psy-data-sci/permutation_correlation.ipynb);
+* [traditional
+  ANOVA](https://github.com/matthew-brett/psy-data-sci/statsmodels_anova.ipynb);
+* Maybe [permutation
+  ANOVA](https://github.com/matthew-brett/psy-data-sci/f_and_resampling.ipynb);
+
+# A prediction
+
+* in 10 years, all traditional "statistics" courses will be data science
+  courses;
+* they will be called something like "data science" or "data analysis";
+* our students will be much more effective as a result.
 
 # Is this the end?
 
