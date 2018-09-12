@@ -2,7 +2,7 @@
 # YAML metadata
 title: Data science is going to change the way we teach statistics
 author: Matthew Brett
-bibliography: data_science.bib
+bibliography: data-science-bib/data_science.bib
 ---
 
 # Source
