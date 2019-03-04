@@ -33,7 +33,8 @@ the data, rather than the data to the analysis. I will show some of these tools
 and teaching methods, and argue, as do many educators in statistics, that we
 should adopt these tools and methods in our own teaching.
 
-Slides at <https://github.com/matthew-brett/psy-data-sci/psy_data_sci_slides.pdf>.
+Slides at
+<https://github.com/matthew-brett/psy-data-sci/blob/master/psy_data_sci_slides.pdf>.
 
 The talk also used some [Jupyter](https://jupyter.org) Notebooks, that you will
 see in this repository.
